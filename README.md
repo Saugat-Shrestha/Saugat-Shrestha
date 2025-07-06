@@ -10,11 +10,7 @@
   
   <br>
   
-  <!-- Tech Stack Heading -->
-  <h2 align="center">Tech Stack</h2>
-  
-  <!-- Programming Stack Icons -->
-
+ 
 
   <br>
   
