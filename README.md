@@ -1,68 +1,95 @@
 <h1 align="center">Hi 👋, I'm Saugat Shrestha</h1>
-<h3 align="center">Flutter Developer | Mobile App Developer | Problem Solver</h3>
+<h3 align="center">Flutter Developer • Mobile App Developer • UI/UX Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/SaugatShrestha">
-    <img src="https://komarev.com/ghpvc/?username=SaugatShrestha&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=SaugatShrestha&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-- 🔭 I’m currently working on **Flutter / Mobile App projects**
-- 🌱 I’m currently learning **advanced Flutter, clean architecture, and backend integration**
-- 💬 Ask me about **Flutter, Dart, Firebase, UI/UX, and app development**
-- 📫 Reach me at **shresthaasaugat31@gmail.com**
+- 📱 Flutter Mobile Application Developer
+- 🏗️ Building scalable and maintainable applications
+- 🎨 Passionate about clean UI/UX design
+- 🌱 Currently learning advanced architecture patterns and backend systems
+- 💬 Ask me about Flutter, Dart, Firebase, Node.js, and Mobile Development
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SaugatShrestha&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaugatShrestha&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=SaugatShrestha&show_icons=true&count_private=true&theme=darcula&hide_border=true&cache_seconds=1800"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaugatShrestha&layout=compact&theme=darcula&hide_border=true&cache_seconds=1800"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaugatShrestha&theme=darcula&hide_border=true&background=FFFFFF00" />
+  <img
+    src="https://streak-stats.demolab.com?user=SaugatShrestha&theme=darcula&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,html,css,java,cpp,nodejs,firebase,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,react,js,ts,html,css,postgres,mongodb,git,github,figma,vscode" />
 </p>
 
 ---
 
-## Featured Projects
+## 🏆 GitHub Trophies
 
-- **Project Name 1** — Short description of your best project.
-- **Project Name 2** — Short description of another project.
-- **Project Name 3** — Short description of another project.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SaugatShrestha&theme=darkhub&no-frame=true&margin-w=15&row=1" />
+</p>
 
 ---
 
-## Connect With Me
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaugatShrestha&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saugat-shrestha-443466199/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="https://www.instagram.com/saugathor/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:shresthaasaugat31@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+
+  <a href="mailto:shresthaasaugat31@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJpeXZsdGgzajlycm1ycXZxY3NwaGJxMzJwcXVqbHEydmdmOWZkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oeHLtOWbFhO4r0ToA/giphy.gif" alt="GIF" width="400" />
+  <img
+    src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJpeXZsdGgzajlycm1ycXZxY3NwaGJxMzJwcXVqbHEydmdmOWZkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oeHLtOWbFhO4r0ToA/giphy.gif"
+    width="500"
+    alt="Coding GIF"
+  />
+</p>
+
+<p align="center">
+  <i>Building impactful mobile experiences, one commit at a time.</i>
 </p>
